@@ -5,7 +5,7 @@
 */
 codeunit 50102 "Item Order Finder"
 {
-    procedure GetOrdersContainingItem(ItemNo: Code[10]; var TempSalesLineBuffer: Record "Sales Line" temporary)
+    procedure GetOrdersContainingItem(ItemNo: Code[20]; var TempSalesLineBuffer: Record "Sales Line" temporary)
     var
         SalesLine: Record "Sales Line";
         SalesLineArchive: Record "Sales Line Archive";

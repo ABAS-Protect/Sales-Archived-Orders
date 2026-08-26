@@ -6,14 +6,14 @@
 table 50102 "Variant Filter Buffer"
 {
     Caption = 'Variant Filter Buffer';
-    DataClassification = CustomerContent;
+    DataClassification = SystemMetadata;
+    TableType = Temporary;
 
     fields
     {
         field(1; "Variant Code"; Code[10])
         {
             Caption = 'Variant Code';
-            DataClassification = CustomerContent;
         }
     }
 
