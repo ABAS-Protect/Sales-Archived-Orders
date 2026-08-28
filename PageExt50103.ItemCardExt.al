@@ -3,6 +3,7 @@
     Date: 2026-08-19
     Description: Sales & Archived Orders menu in Related/Sales.
 */
+
 pageextension 50103 "Item Card Ext" extends "Item Card"
 {
     actions
@@ -20,7 +21,7 @@ pageextension 50103 "Item Card Ext" extends "Item Card"
                 var
                     ItemOrderFinder: Codeunit "Item Order Finder";
                     TempSalesLineBuffer: Record "Sales Line" temporary;
-                    ItemOrderList: Page "Item Order Finder List";
+                    ItemOrderList: Page "ABAS Sales Archived Orders";
                 begin
                     ItemOrderFinder.GetOrdersContainingItem(Rec."No.", TempSalesLineBuffer);
                     ItemOrderList.SetData(TempSalesLineBuffer);

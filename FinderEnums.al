@@ -3,6 +3,7 @@
     Date: 2026-08-19
     Description: Enumeration types for Document type and Order status.
 */
+
 enum 50100 "Item Doc Type Find"
 {
     Extensible = true;

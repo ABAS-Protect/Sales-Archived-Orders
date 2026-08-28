@@ -3,6 +3,7 @@
     Date: 2026-08-19
     Description: Store variant in a buffer table.
 */
+
 table 50102 "Variant Filter Buffer"
 {
     Caption = 'Variant Filter Buffer';

@@ -3,7 +3,8 @@
     Date: 2026-08-19
     Description: Find Sales orders and Archived sales orders.
 */
-page 50103 "Item Order Finder List"
+
+page 50103 "ABAS Sales Archived Orders"
 {
     PageType = Worksheet;
     SourceTable = "Sales Line";
@@ -86,10 +87,10 @@ page 50103 "Item Order Finder List"
                         end;
                     end;
                 }
-                field("Customer project code"; Rec."Customer Project Code")
+                field("Customer Project Code"; Rec."Customer Project Code")
                 {
                     ApplicationArea = All;
-                    Caption = 'Customer project code';
+                    Caption = 'Customer Project Code';
                 }
 
                 field("Variant Code"; Rec."Custom Finder Variant Code")

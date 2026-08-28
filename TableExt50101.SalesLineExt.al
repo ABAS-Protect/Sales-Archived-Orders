@@ -14,7 +14,7 @@ tableextension 50101 "Sales Line Finder Ext" extends "Sales Line"
         }
         field(50101; "Customer Project Code"; Enum "Item Proj Code Find")
         {
-            Caption = 'Customer project code';
+            Caption = 'Status';
             DataClassification = CustomerContent;
         }
         field(50102; "Custom Finder Variant Code"; Code[10])

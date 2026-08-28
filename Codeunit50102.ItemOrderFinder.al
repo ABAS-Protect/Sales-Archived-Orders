@@ -3,6 +3,7 @@
     Date: 2026-08-19
     Description: Find Sales orders and Archived sales orders.
 */
+
 codeunit 50102 "Item Order Finder"
 {
     procedure GetOrdersContainingItem(ItemNo: Code[20]; var TempSalesLineBuffer: Record "Sales Line" temporary)

@@ -13,55 +13,55 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Variant Filter Buffer - Field Variant Code - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ABAS Sales &amp; Archived Orders</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
           <source>item order history, sales archive lookup</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Property AdditionalSearchTerms</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Property AdditionalSearchTerms</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 2135001848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Customer project code</source>
+        <trans-unit id="Page 4281017086 - Control 2608568440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Project Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Customer project code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Customer Project Code - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Document Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Document Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Document Type - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control No. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Order No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Order No. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Order No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Variant Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Variant Code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Variant Code - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 1623848471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 1623848471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Search Criteria</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control SearchCriteria - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control SearchCriteria - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 2027832184 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 2027832184 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Select or type an Item No. to find all active and archived sales lines.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Search Item No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Search Item No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3288386845 - Control 2027832184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 4281017086 - Control 2027832184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Item Order Finder List - Control Search Item No. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABAS Sales Archived Orders - Control Search Item No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3217958164 - Action 3560338798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
           <source>View all active and archived sales orders that contain this item.</source>
@@ -84,7 +84,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Line Finder Ext - Field Custom Finder Variant Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3379295855 - Field 2608568440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
-          <source>Customer project code</source>
+          <source>Status</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Line Finder Ext - Field Customer Project Code - Property Caption</note>
         </trans-unit>
