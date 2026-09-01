@@ -9,6 +9,7 @@ table 50102 "Variant Filter Buffer"
     Caption = 'Variant Filter Buffer';
     DataClassification = SystemMetadata;
     TableType = Temporary;
+    InherentPermissions = RIMDX;
 
     fields
     {

@@ -18,6 +18,7 @@ page 50103 "ABAS Sales Archived Orders"
     InsertAllowed = false;
     ModifyAllowed = false;
     DeleteAllowed = false;
+    InherentPermissions = X;
 
     layout
     {
